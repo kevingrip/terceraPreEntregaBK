@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Estator",
+        "description": "Conversión electromecánica de potencia",
+        "price": 5000,
+        "thumbnail": "https://luzplantas.com/wp-content/uploads/2013/04/Estator-de-bobinas-de-generaci%C3%B3n.jpg",
+        "code": "c1",
+        "stock": 20,
+        "status": true,
+        "id": 1
+    },
+    {
+        "title": "Escape",
+        "description": "Evacuador de gases del motor hacia el medioambiente",
+        "price": 60000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_993357-MLA53248445597_012023-O.webp",
+        "code": "c3",
+        "stock": 30,
+        "status": true,
+        "id": 3
+    },
+    {
+        "title": "Asiento",
+        "description": "Superficie para sentarse en la moto",
+        "price": 5000,
+        "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_749755-MLA51616305014_092022-O.webp",
+        "code": "c2",
+        "stock": 10,
+        "status": true,
+        "id": 4
+    },
+    {
+        "title": "Regulador",
+        "description": "Regulador de voltaje",
+        "price": 3000,
+        "thumbnail": "/static/img/regulador1.png",
+        "code": "c4",
+        "stock": 2,
+        "status": true,
+        "id": 5
+    },
+    {
+        "title": "Pastilla de freno",
+        "description": "Para NS200",
+        "price": 3000,
+        "thumbnail": "/static/img/ns200.png",
+        "code": "c6",
+        "stock": 10,
+        "status": true,
+        "id": 6
+    }
+]

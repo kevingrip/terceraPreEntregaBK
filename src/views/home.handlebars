@@ -1,0 +1,19 @@
+<div>
+    <h1>
+        Productos
+    </h1>
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        {{#each productConIdStrings}}
+            <div class="card" style="width: 18rem;">
+                <img src="{{thumbnail}}" class="card-img-top" style=" height:10rem" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">{{title}}</h5>
+                    <p class="card-text">{{description}}</p>
+                    <p>${{price}}</p>
+                    <p>Stock: {{stock}}</p>
+                    {{!-- <a href="#" class="btn btn-primary">Go somewhere</a> --}}
+                </div>
+            </div>
+        {{/each}}
+    </div>
+</div>
